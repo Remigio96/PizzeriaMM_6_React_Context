@@ -108,7 +108,12 @@ src/
 ---
 
 ## 📱 Live Preview
+<img width="1222" height="896" alt="image" src="https://github.com/user-attachments/assets/c0ca0bc0-9a72-4ee5-83b6-1e6e01895bc2" />
+<img width="1219" height="781" alt="image" src="https://github.com/user-attachments/assets/a30f583c-7ff5-458a-8429-2ca13646ead6" />
+<img width="1206" height="775" alt="image" src="https://github.com/user-attachments/assets/c9badcff-6252-4f9e-97c4-ccf05e8a7de8" />
 
 Despliegue en GitHub Pages:
-➡️
+➡️ https://remigio96.github.io/PizzeriaMM_6_React_Context/
+
+
 
