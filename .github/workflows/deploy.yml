@@ -33,7 +33,6 @@ jobs:
       - name: Build
         run: npm run build
 
-      # Fallback SPA para refrescos en rutas internas (/login, /profile, etc.)
       - name: SPA fallback
         run: cp dist/index.html dist/404.html
 
